@@ -1,6 +1,6 @@
-<h1 align="center">Hey there! I'm Aldo Aliscioni</h1>
-<h3 align="center">Web Full Stack Developer</h3>
-<h3 align="center">I'm 21 years old from Argentina who loves technology and animals. I'm currently focused on full stack web development and improve my skills every day, always learning something new.</h3>
+<h1 align="center">Web Full Stack Developer </h1>
+<h3 align="center">🌎 Based in Argentina, I'm a 22-year-old tech enthusiast with a love for both coding and animals. My journey revolves around the fascinating world of full-stack web development.</h3>
+<h3 align="center">🛠️ Currently channeling my passion into crafting solutions at Aseguratec.</h3>
 
 ```javascript
 const aboutMe = {
@@ -8,8 +8,8 @@ const aboutMe = {
    code: ["JavaScript", "HTML5", "CSS3", "Java", "Lua"]
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Styled Components", "Vanilla"]
+         js: ["React", "Redux", "Angular", "Astro", "Next"],
+         css: ["Material UI","Bootstrap", "Styled Components", "Vanilla"]
       },
       backEnd: {
          js: ["Node", "Express", "Sequelize"]
