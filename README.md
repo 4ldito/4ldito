@@ -1,6 +1,6 @@
 <h1 align="center">Web Full Stack Developer </h1>
 <h3 align="center">🌎 Based in Argentina, I'm a 22-year-old tech enthusiast with a love for both coding and animals. My journey revolves around the fascinating world of full-stack web development.</h3>
-<h3 align="center">🛠️ Currently channeling my passion into crafting solutions at Aseguratec.</h3>
+<h3 align="center">🛠️ Currently crafting solutions at Aseguratec.</h3>
 
 ```javascript
 const aboutMe = {
